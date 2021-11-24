@@ -1,0 +1,4 @@
+from .classification_average_model import ClassificationAverageModel
+from .classification_base_model import ClassificationBaseModel
+from .classification_cnn_model import ClassificationCNNModel
+from .classification_rnn_model import ClassificationRNNModel
